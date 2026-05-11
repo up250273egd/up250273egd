@@ -1,4 +1,4 @@
-<span style="color:red">
+<span style="color:white">
 
  # *Hola como estan mi nombre es diego 👋*
  ---
