@@ -1,30 +1,14 @@
-<span >
-
-  
- </span>
- `git status`
-```
-<html>
-    <head>
-    <title>Ejemplo</title>
-    </head>
-      <body style="color:white">
-        # *Hola como estan mi nombre es diego 👋*
-         ---
-          ## Soy un estudiante de la universidad politecnica de ags
+  # *Hola como estan mi nombre es diego 👋*
+  ---
+  ## Soy un estudiante de la universidad politecnica de ags
         ----
-          ## Se programar en: 
-                    - Python
+  ## Se programar en: 
+                   - Python
                     - Java
                     - Html
                     - CSS
                     - JavaScript
                     - SQL
-       </body>
-  </html>
-```
-
-git status
 <!--
 **up250273egd/up250273egd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
