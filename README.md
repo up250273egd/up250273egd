@@ -2,7 +2,7 @@
  ---
  ## Soy un estudiante de la universidad politecnica de ags
 ----
- ## - Se programar en: 
+ ## Se programar en: 
             - Python
             - Java
             - Html
