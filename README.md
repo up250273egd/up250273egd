@@ -1,3 +1,5 @@
+<span style="color:red">
+
  # *Hola como estan mi nombre es diego 👋*
  ---
  ## Soy un estudiante de la universidad politecnica de ags
@@ -9,6 +11,7 @@
             - CSS
             - JavaScript
             - SQL
+</span>
 <!--
 **up250273egd/up250273egd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
