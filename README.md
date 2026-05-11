@@ -1,25 +1,14 @@
   # *Hola como estan mi nombre es diego 👋*
   ---
   ## Soy un estudiante de la universidad politecnica de ags
-        ----
+  ----
   ## Se programar en: 
-                   - Python
-                    - Java
-                    - Html
-                    - CSS
-                    - JavaScript
-                    - SQL
-<!--
-**up250273egd/up250273egd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         - Python
+          - Java
+          - Html
+          - CSS
+          - JavaScript
+          - SQL
+[Ir a Linux para descargar](https://www.linux.org/pages/download/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCB0uYgkzlI3im8bY349x6fqwgQDrJq3PeB4mja-FavLD1U9xaeLAw3krKQyML91UkNB_2duG4tyTUrNRJlsXL4hoGGTARm7Gv3OjqA&s=10)
