@@ -1,10 +1,10 @@
 <span style="color:white">
 
-  *Hola como estan mi nombre es diego 👋*
+  # *Hola como estan mi nombre es diego 👋*
  ---
-  Soy un estudiante de la universidad politecnica de ags
+  ## Soy un estudiante de la universidad politecnica de ags
 ----
-  Se programar en: 
+  ## Se programar en: 
             - Python
             - Java
             - Html
