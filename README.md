@@ -1,5 +1,5 @@
  # *Hola como estan mi nombre es diego 👋*
- ------------------------------------------------
+ ---
  ## Soy un estudiaante de la universidad politecnica de ags
 
 <!--
