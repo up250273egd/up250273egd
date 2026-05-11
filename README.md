@@ -1,4 +1,6 @@
  # *Hola como estan mi nombre es diego 👋*
+ ------------------------------------------------
+ ## Soy un estudiaante de la universidad politecnica de ags
 
 <!--
 **up250273egd/up250273egd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
